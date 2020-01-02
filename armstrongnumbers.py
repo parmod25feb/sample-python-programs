@@ -4,9 +4,7 @@ print("Here is the list of all the Armstrong numbers less then < 1000")
 
 #Iterating through the numbers from 0 to 1000
 for num in range(0,1000):
-  rem =0           #declaring local variables
-  rev =0 
-  num1 =0
+  rem=rev=num1=0                 # declaring and initializing local variables
   num1=num
   while num1 != 0:               # logic for Armstrong number
     rem = num1 % 10
