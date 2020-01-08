@@ -1,0 +1,7 @@
+Apple
+Google
+Microsoft
+Yahoo
+Amazon
+AOL
+Linkedin
