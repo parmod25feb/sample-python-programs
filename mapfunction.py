@@ -14,3 +14,17 @@ print(list(result))
 
 #Output : ['Parmod Kumar', 'Ayansh Sharma', 'Vinay Singh']
 
+
+# map function with inbuilt function
+
+tup = ("parmod","kumar")
+
+def makeupper(tp):
+  return tp.upper()
+
+names = map(makeupper,tup)
+
+print(list(names))
+
+#output : ['PARMOD', 'KUMAR']
+
