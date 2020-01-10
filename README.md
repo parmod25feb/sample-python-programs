@@ -8,3 +8,4 @@ This repository is having Python programs outlined here:
 5. Program to create a new list with combination of even numbers from 1st list and odd numbers from the 2nd list
 6. Program to read data from text file
 7. Program to use Python inbuilt map function functionality
+8. Program to understand the functionality of Python Range fuction
