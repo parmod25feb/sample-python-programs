@@ -10,6 +10,3 @@ This repository is having Python programs outlined here:
 7. Program to use Python inbuilt map function functionality
 8. Program to understand the functionality of Python Range fuction
 9. Program to Concatenate two Strings
-"""Output is : Please enter your first name : Google
-               Please enter your second name : Alphabet
-               Concatenated string is :  Google Alphabet"""
