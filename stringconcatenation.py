@@ -16,4 +16,8 @@ print("Concatenated string is : ",full_name)
 
 st3 = ' '
 concatenated_string = ''.join([st1,st3,st2])
-print("\nConcanated string is : ",concatenated_string)
+print("\nConcatenated string is : ",concatenated_string)
+
+
+"""Output is : Concatenated string is :  Google Alphabet"""
+
