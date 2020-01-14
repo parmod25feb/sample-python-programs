@@ -11,3 +11,4 @@ This repository is having Python programs outlined here:
 8. Program to understand the functionality of Python Range fuction
 9. Program to Concatenate two Strings
 10. Python program to print a string cool equal co2l or abbcccdde equal to ab2c3d2e
+11. Python program to reverse the string using slice method, range function and an empty string
