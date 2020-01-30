@@ -15,3 +15,4 @@ This repository is having Python programs outlined here:
 12. Python program to convert a List of Characters into String
 13. Python program to check first and last item of the list are equal or not
 14. Python program to reverse a list/array in chunks
+15. Python program to see the functionality of Zip function
