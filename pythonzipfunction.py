@@ -6,4 +6,6 @@ salary = (10000,20000,15000,17000)
 
 zipobj = zip(employee,empid,salary)
 
-print(set(zipobj))
+for emp,empid,sal in zipobj:
+  print("Employee- ",emp," wiht id - ",empid," has salary is - ",sal)
+
