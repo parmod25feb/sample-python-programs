@@ -16,3 +16,4 @@ This repository is having Python programs outlined here:
 13. Python program to check first and last item of the list are equal or not
 14. Python program to reverse a list/array in chunks
 15. Python program to see the functionality of Zip function
+16. Python program to check if the string is Palindrome or not
